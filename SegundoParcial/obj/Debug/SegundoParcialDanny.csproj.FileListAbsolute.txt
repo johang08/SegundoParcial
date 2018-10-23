@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\SegundoParcialDanny.exe.config
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\SegundoParcialDanny.exe
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\SegundoParcialDanny.pdb
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.MainForm.resources
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.Properties.Resources.resources
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.UI.Consulta.CVendedor.resources
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.UI.Registro.RVendedor.resources
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.exe
+C:\Users\Usuario\Desktop\SeguendoParcialDanny-master\SegundoParcialDanny\obj\Debug\SegundoParcialDanny.pdb
